@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "software"
+  ],
+  "expiresAfterMonths": 0,
+  "expiresBeforeMonths": 12,
+  "maxItems": 20
+}
